@@ -10,13 +10,12 @@ import ateneu.laboop.exercises.exercise1.Exercice1;
  */
 public class Exercices {
 
-	/**
-	 * Executa todas as questões do Exercício #1 do portal do aluno.
-	 * Arquivo: 2018912_234544_Laboratório+de+Programação+Orientada+a+Objetos+-+Exercícios+1+-+JAVA.pdf
-	 */
-	public void exercise1()
-	{
-		new Exercice1();
-	}
-
+    /**
+     * Executa todas as questões do Exercício #1 do portal do aluno.
+     * Arquivo: 2018912_234544_Laboratório+de+Programação+Orientada+a+Objetos+-+Exercícios+1+-+JAVA.pdf
+     */
+    public void exercise1()
+    {
+        new Exercice1();
+    }
 }
